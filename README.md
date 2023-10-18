@@ -1,6 +1,6 @@
 # 0x11. C - printf Group Project
 
-Group Project completed as part of the **full-stack Software Engineering program** at **ALX SE** to gain a comprehensive understanding of the **printf function** in the C programming language.
+Group Project completed as part of the **full-stack Software Engineering program.
 
 ---
 
@@ -19,7 +19,7 @@ Write a function that produces output according to a format.
   - c
   - %
 
-### 1. Education is when you read the fine print. Experience is what you get if you don't
+### 1. Education is when you read the fine print. 
 
 Write a function that prints numbers, followed by a new line.
 
@@ -27,7 +27,7 @@ Write a function that prints numbers, followed by a new line.
   - d
   - i
 
-### 2. With a face like mine, I do better in print
+### 2.  I do better in print
 
 Handle the following custom conversion specifier:
 
@@ -74,7 +74,7 @@ Handle the following length modifiers for non-custom conversion specifiers:
 - l
 - h
 
-### 9. Print some money and give it to us for the rainforests
+### 9. Print some money and give it to us.
 
 Handle the field width for non-custom conversion specifiers.
 
